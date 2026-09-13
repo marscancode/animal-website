@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+    font-family: arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border: 7px dotted black;
+}
